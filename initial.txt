@@ -1,1 +1,3 @@
 first note file
+
+git init
